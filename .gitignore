@@ -1,3 +1,4 @@
 *
 !.gitignore
-!.cpp
+!/firewall-blocker/*.cpp
+!.md
